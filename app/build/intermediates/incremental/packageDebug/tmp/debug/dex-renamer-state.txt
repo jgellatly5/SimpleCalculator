@@ -1,0 +1,4 @@
+#Mon Aug 03 19:18:49 EDT 2020
+base.0=/Users/mikeirisvision.com/Jordan/Emoji Calculator Project Files/starter/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex

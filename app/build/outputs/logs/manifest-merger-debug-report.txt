@@ -1,0 +1,172 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mikeirisvision.com/Jordan/Emoji Calculator Project Files/starter/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/mikeirisvision.com/Jordan/Emoji Calculator Project Files/starter/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/mikeirisvision.com/Jordan/Emoji Calculator Project Files/starter/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/mikeirisvision.com/Jordan/Emoji Calculator Project Files/starter/app/src/main/AndroidManifest.xml:2:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha3.aar/baf2e35ff5a8b369273f25acd23a5b74/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/c89f24a15c77ce7969bbaa1af3a06646/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/ac774c374377e6591594fb79bbbc4e31/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/03051ab97dfdf6c4cfb2988ba1888454/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/e56a9b018ffa588d19042a438c43a064/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/116b4c14a9861558931db30317936ee0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/d8c950158f9ebd6060d9f488d347db4e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/cb91116622c52aedfae471eced780179/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/71ddf392b1e874ead75f42c131d02e8a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/transition-1.0.0.aar/3396b3021f3cd4fad85e45484a49e115/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/c326515f88f39fcfeaf4cf1ef99f9be8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/0c9bb776101cb2cebc72cfcaf7e1d304/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/1865aa1e0b3924890b6f0a4077a4e42b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/e85dc311c19569991b6aba72a434c8c8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/c01f7aa4b3ad4ae16a428d5190d3ceec/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/1b4356156060c52735ab9fb0c911b10c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/690e05437168d553d6b9dcdffe65f162/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/36bafc9aa3b460307f178cf122b46a10/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/7975ed4b890f7df8bfc691df17a078fc/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/db642192c0ad77b403a94d0f7df06a48/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/3bbafd7e601c91e07e088a8b1e914048/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/e1f00324a41b03fdadae014e1c0a8985/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/56a5ac708aaeee268bdfb60fa2e1a251/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/2e9cec3b9e6069ba6421b6176e8788f5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/40658ddc2b4348c22e983660195010d4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/3b583bffa70a40b782a94ae84d6447a4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/94e4cea66304532810954a83012cbce2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/405747418523bad46514744102256474/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/fe0eeca1f2f8cb06aec50e3e8cd238e5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/fb70aaa54468c8d60b97208a922dfae5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/9d7d941b6039754ab0b1402b307f9df3/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/mikeirisvision.com/Jordan/Emoji Calculator Project Files/starter/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/mikeirisvision.com/Jordan/Emoji Calculator Project Files/starter/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/mikeirisvision.com/Jordan/Emoji Calculator Project Files/starter/app/src/main/AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from /Users/mikeirisvision.com/Jordan/Emoji Calculator Project Files/starter/app/src/main/AndroidManifest.xml:2:11-62
+		INJECTED from /Users/mikeirisvision.com/Jordan/Emoji Calculator Project Files/starter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mikeirisvision.com/Jordan/Emoji Calculator Project Files/starter/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/mikeirisvision.com/Jordan/Emoji Calculator Project Files/starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mikeirisvision.com/Jordan/Emoji Calculator Project Files/starter/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /Users/mikeirisvision.com/Jordan/Emoji Calculator Project Files/starter/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/mikeirisvision.com/Jordan/Emoji Calculator Project Files/starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mikeirisvision.com/Jordan/Emoji Calculator Project Files/starter/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /Users/mikeirisvision.com/Jordan/Emoji Calculator Project Files/starter/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/mikeirisvision.com/Jordan/Emoji Calculator Project Files/starter/app/src/main/AndroidManifest.xml:3:11-69
+application
+ADDED from /Users/mikeirisvision.com/Jordan/Emoji Calculator Project Files/starter/app/src/main/AndroidManifest.xml:5:3-24:17
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha3.aar/baf2e35ff5a8b369273f25acd23a5b74/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha3.aar/baf2e35ff5a8b369273f25acd23a5b74/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/c89f24a15c77ce7969bbaa1af3a06646/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/c89f24a15c77ce7969bbaa1af3a06646/AndroidManifest.xml:22:5-20
+MERGED from [androidx.core:core:1.0.1] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/7975ed4b890f7df8bfc691df17a078fc/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/7975ed4b890f7df8bfc691df17a078fc/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/db642192c0ad77b403a94d0f7df06a48/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/db642192c0ad77b403a94d0f7df06a48/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/7975ed4b890f7df8bfc691df17a078fc/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/mikeirisvision.com/Jordan/Emoji Calculator Project Files/starter/app/src/main/AndroidManifest.xml:10:7-33
+	android:label
+		ADDED from /Users/mikeirisvision.com/Jordan/Emoji Calculator Project Files/starter/app/src/main/AndroidManifest.xml:8:7-39
+	android:roundIcon
+		ADDED from /Users/mikeirisvision.com/Jordan/Emoji Calculator Project Files/starter/app/src/main/AndroidManifest.xml:9:7-52
+	android:icon
+		ADDED from /Users/mikeirisvision.com/Jordan/Emoji Calculator Project Files/starter/app/src/main/AndroidManifest.xml:7:7-41
+	android:allowBackup
+		ADDED from /Users/mikeirisvision.com/Jordan/Emoji Calculator Project Files/starter/app/src/main/AndroidManifest.xml:6:7-34
+	android:theme
+		ADDED from /Users/mikeirisvision.com/Jordan/Emoji Calculator Project Files/starter/app/src/main/AndroidManifest.xml:11:7-38
+activity#com.raywenderlich.android.emojicalculator.SplashActivity
+ADDED from /Users/mikeirisvision.com/Jordan/Emoji Calculator Project Files/starter/app/src/main/AndroidManifest.xml:14:5-20:16
+	android:name
+		ADDED from /Users/mikeirisvision.com/Jordan/Emoji Calculator Project Files/starter/app/src/main/AndroidManifest.xml:14:15-86
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/mikeirisvision.com/Jordan/Emoji Calculator Project Files/starter/app/src/main/AndroidManifest.xml:15:7-19:23
+action#android.intent.action.MAIN
+ADDED from /Users/mikeirisvision.com/Jordan/Emoji Calculator Project Files/starter/app/src/main/AndroidManifest.xml:16:9-60
+	android:name
+		ADDED from /Users/mikeirisvision.com/Jordan/Emoji Calculator Project Files/starter/app/src/main/AndroidManifest.xml:16:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/mikeirisvision.com/Jordan/Emoji Calculator Project Files/starter/app/src/main/AndroidManifest.xml:18:9-68
+	android:name
+		ADDED from /Users/mikeirisvision.com/Jordan/Emoji Calculator Project Files/starter/app/src/main/AndroidManifest.xml:18:19-66
+activity#com.raywenderlich.android.emojicalculator.MainActivity
+ADDED from /Users/mikeirisvision.com/Jordan/Emoji Calculator Project Files/starter/app/src/main/AndroidManifest.xml:23:5-86
+	android:name
+		ADDED from /Users/mikeirisvision.com/Jordan/Emoji Calculator Project Files/starter/app/src/main/AndroidManifest.xml:23:15-84
+uses-sdk
+INJECTED from /Users/mikeirisvision.com/Jordan/Emoji Calculator Project Files/starter/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/mikeirisvision.com/Jordan/Emoji Calculator Project Files/starter/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mikeirisvision.com/Jordan/Emoji Calculator Project Files/starter/app/src/main/AndroidManifest.xml
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha3.aar/baf2e35ff5a8b369273f25acd23a5b74/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha3.aar/baf2e35ff5a8b369273f25acd23a5b74/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/c89f24a15c77ce7969bbaa1af3a06646/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/c89f24a15c77ce7969bbaa1af3a06646/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/ac774c374377e6591594fb79bbbc4e31/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/ac774c374377e6591594fb79bbbc4e31/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/03051ab97dfdf6c4cfb2988ba1888454/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/03051ab97dfdf6c4cfb2988ba1888454/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/e56a9b018ffa588d19042a438c43a064/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/e56a9b018ffa588d19042a438c43a064/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/116b4c14a9861558931db30317936ee0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/116b4c14a9861558931db30317936ee0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/d8c950158f9ebd6060d9f488d347db4e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/d8c950158f9ebd6060d9f488d347db4e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/cb91116622c52aedfae471eced780179/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/cb91116622c52aedfae471eced780179/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/71ddf392b1e874ead75f42c131d02e8a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/71ddf392b1e874ead75f42c131d02e8a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/transition-1.0.0.aar/3396b3021f3cd4fad85e45484a49e115/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/transition-1.0.0.aar/3396b3021f3cd4fad85e45484a49e115/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/c326515f88f39fcfeaf4cf1ef99f9be8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/c326515f88f39fcfeaf4cf1ef99f9be8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/0c9bb776101cb2cebc72cfcaf7e1d304/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/0c9bb776101cb2cebc72cfcaf7e1d304/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/1865aa1e0b3924890b6f0a4077a4e42b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/1865aa1e0b3924890b6f0a4077a4e42b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/e85dc311c19569991b6aba72a434c8c8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/e85dc311c19569991b6aba72a434c8c8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/c01f7aa4b3ad4ae16a428d5190d3ceec/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/c01f7aa4b3ad4ae16a428d5190d3ceec/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/1b4356156060c52735ab9fb0c911b10c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/1b4356156060c52735ab9fb0c911b10c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/690e05437168d553d6b9dcdffe65f162/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/690e05437168d553d6b9dcdffe65f162/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/36bafc9aa3b460307f178cf122b46a10/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/36bafc9aa3b460307f178cf122b46a10/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/7975ed4b890f7df8bfc691df17a078fc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/7975ed4b890f7df8bfc691df17a078fc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/db642192c0ad77b403a94d0f7df06a48/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/db642192c0ad77b403a94d0f7df06a48/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/3bbafd7e601c91e07e088a8b1e914048/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/3bbafd7e601c91e07e088a8b1e914048/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/e1f00324a41b03fdadae014e1c0a8985/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/e1f00324a41b03fdadae014e1c0a8985/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/56a5ac708aaeee268bdfb60fa2e1a251/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/56a5ac708aaeee268bdfb60fa2e1a251/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/2e9cec3b9e6069ba6421b6176e8788f5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/2e9cec3b9e6069ba6421b6176e8788f5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/40658ddc2b4348c22e983660195010d4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/40658ddc2b4348c22e983660195010d4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/3b583bffa70a40b782a94ae84d6447a4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/3b583bffa70a40b782a94ae84d6447a4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/94e4cea66304532810954a83012cbce2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/94e4cea66304532810954a83012cbce2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/405747418523bad46514744102256474/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/405747418523bad46514744102256474/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/fe0eeca1f2f8cb06aec50e3e8cd238e5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/fe0eeca1f2f8cb06aec50e3e8cd238e5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/fb70aaa54468c8d60b97208a922dfae5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/fb70aaa54468c8d60b97208a922dfae5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/9d7d941b6039754ab0b1402b307f9df3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/mikeirisvision.com/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/9d7d941b6039754ab0b1402b307f9df3/AndroidManifest.xml:20:5-44
+INJECTED from /Users/mikeirisvision.com/Jordan/Emoji Calculator Project Files/starter/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mikeirisvision.com/Jordan/Emoji Calculator Project Files/starter/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/mikeirisvision.com/Jordan/Emoji Calculator Project Files/starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mikeirisvision.com/Jordan/Emoji Calculator Project Files/starter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mikeirisvision.com/Jordan/Emoji Calculator Project Files/starter/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/mikeirisvision.com/Jordan/Emoji Calculator Project Files/starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mikeirisvision.com/Jordan/Emoji Calculator Project Files/starter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mikeirisvision.com/Jordan/Emoji Calculator Project Files/starter/app/src/main/AndroidManifest.xml
